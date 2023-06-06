@@ -5,6 +5,7 @@
  * privado a través de un hook y, además, poder modificarlo
  */
 
+
 import React, { useState } from 'react';
 
 const Ejemplo1 = () => {
@@ -14,8 +15,8 @@ const Ejemplo1 = () => {
 
     // Valor inicial para una persona
     const personaInicial = {
-        nombre : 'Martín',
-        email: 'martin@imaginagroup.com'
+        nombre : 'Matias',
+        email: 'matia@gmail.com'
     }
 
     /**
